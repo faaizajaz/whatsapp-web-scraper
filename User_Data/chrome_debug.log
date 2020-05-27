@@ -1,5 +1,0 @@
-[22032:27120:0518/232731.944:ERROR:browser_switcher_service.cc(238)] XXX Init()
-[22032:27120:0518/232737.755:ERROR:device_event_log_impl.cc(162)] [23:27:37.748] Bluetooth: bluetooth_adapter_winrt.cc:1145 RequestRadioAccessAsync failed: RadioAccessStatus::DeniedByUserWill not be able to change radio power.
-[22032:27120:0518/232745.235:INFO:CONSOLE(1)] "Application Cache API use is deprecated and will be removed in M82, around April 2020. See https://www.chromestatus.com/features/6192449487634432 for more details.", source: https://web.whatsapp.com/app.cf3ea6417b5a935d1484.js (1)
-[22032:27120:0518/233137.468:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[22032:27120:0518/233137.468:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.
